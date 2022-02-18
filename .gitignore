@@ -28,17 +28,6 @@ Thumbs.db
 # Android Studio
 *.iml
 .gradle
-.idea/assetWizardSettings.xml
-.idea/caches
-.idea/compiler.xml
-.idea/dictionaries/
-.idea/encodings.xml
-.idea/gradle.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/runConfigurations.xml
-.idea/vcs.xml
-.idea/workspace.xml
 /build
 /app/release
 /captures

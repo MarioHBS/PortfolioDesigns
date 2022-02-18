@@ -1,8 +1,15 @@
 # Default ignored files
+/caches
 /libraries
 /modules
 /shelf/
+
+/assetWizardSettings.xml
 /compiler.xml
+/dictionaries/
+/encodings.xml
 /misc.xml
+/modules.xml
+/runConfigurations.xml
 /vcs.xml
 /workspace.xml
